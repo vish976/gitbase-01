@@ -1,3 +1,2 @@
 proba-02
-изменение второе из клонированного https://github.com/vish976/gitbase-01.git в директорию /gitclone-base01/gitbase-01
-пробуем сделать commit из этого клона
+change base https://github.com/vish976/gitbase-01.git from clone base /gitclone-base01/gitbase-01
